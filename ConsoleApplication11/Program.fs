@@ -2,3 +2,8 @@
 
 for i in array1 do
 printf "%d" i
+
+printf "%d" i
+printf "%d" i
+printf "%d" i
+printf "%d" i
